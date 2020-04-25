@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinApp</string>
+    <string name="login">LOGIN</string>
+    <string name="passaword">Passaword</string>
+    <string name="email">Email</string>
+    <string name="fazer_login">Fazer Login</string>
+    <string name="et_loko">Et Loko</string>
+</resources>
